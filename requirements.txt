@@ -1,7 +1,8 @@
-joblib~=1.0.1
+joblib
 numpy
 streamlit
 fastapi
 scikit-learn
 uvicorn
 numpy
+scikit-learn
